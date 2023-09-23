@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merlin-books/static/css/main.cf5a1b69.css",
+    "main.js": "/merlin-books/static/js/main.640f463a.js",
+    "index.html": "/merlin-books/index.html",
+    "main.cf5a1b69.css.map": "/merlin-books/static/css/main.cf5a1b69.css.map",
+    "main.640f463a.js.map": "/merlin-books/static/js/main.640f463a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf5a1b69.css",
+    "static/js/main.640f463a.js"
+  ]
+}
